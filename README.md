@@ -196,7 +196,7 @@ while (contador < 3) {
   print(contador);
   contador++;
 }
-// Salida: 0, 1, 2
+// 0, 1, 2
 
 ```
 
@@ -363,7 +363,7 @@ class Persona {
 void main() {
   // Crear una instancia (objeto) de la clase Persona
   Persona persona1 = Persona('Jhon', 25);
-  persona1.saludar(); // Salida: Hola, mi nombre es Jhon y tengo 25 años.
+  persona1.saludar(); // Hola, mi nombre es Jhon y tengo 25 años.
 }
 ```
 
