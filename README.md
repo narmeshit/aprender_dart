@@ -530,7 +530,7 @@ void main() {
 
 ## Testeos
 
-El testeo en Dart es una parte crucial del desarrollo de software, ya que permite asegurar que el código funcione correctamente y que los cambios no introduzcan errores inesperados. Dart proporciona un conjunto de herramientas para realizar pruebas unitarias, de integración y de widgets. Aquí te presento los conceptos clave y ejemplos de cómo realizar pruebas en Dart.
+El testeo en Dart es una parte crucial del desarrollo de software, ya que permite asegurar que el código funcione correctamente y que los cambios no introduzcan errores inesperados. Dart proporciona un conjunto de herramientas para realizar pruebas unitarias, de integración y de widgets.
 
 ### Herramientas de Testeo
 
