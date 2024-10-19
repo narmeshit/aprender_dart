@@ -73,6 +73,8 @@ int resta = a - b; // 2
 int multiplicacion = a * b; // 15
 //Division(/)
 double division = a / b; // 1.6666666666666667
+//Resto(%)
+int resto = a % b; // 2
 ```
 
 - **Operadores de asignación**
